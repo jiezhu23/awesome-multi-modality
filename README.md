@@ -24,4 +24,7 @@ Foundation Models](https://arxiv.org/pdf/2107.00135.pdf), Yu, Jiahui, et al., ar
 - (BEITv3) [Image as a Foreign Language: BEIT Pretraining for
 All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf), Wang, Wenhui, et al., arXiv, 2022 | [github](https://github.com/microsoft/unilm/tree/master/beit3)
 
+- (BLIP) [BLIP: Bootstrapping Language-Image Pre-training for
+Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf), Li, Junnan, et al., PMLR, 2022 | [github](https://github.com/salesforce/BLIP)
+
 
