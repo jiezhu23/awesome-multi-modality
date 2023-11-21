@@ -27,4 +27,7 @@ All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf), Wan
 - (BLIP) [BLIP: Bootstrapping Language-Image Pre-training for
 Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf), Li, Junnan, et al., PMLR, 2022 | [github](https://github.com/salesforce/BLIP)
 
+- (Flamingo) [Flamingo: a Visual Language Model
+for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf), Alayrac, Jean-Baptiste, et al., NeurIPS, 2022 | [github](https://github.com/salesforce/BLIP)
+
 
