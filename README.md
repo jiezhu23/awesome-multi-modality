@@ -28,6 +28,8 @@ All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf), Wan
 Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf), Li, Junnan, et al., PMLR, 2022 | [github](https://github.com/salesforce/BLIP)
 
 - (Flamingo) [Flamingo: a Visual Language Model
-for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf), Alayrac, Jean-Baptiste, et al., NeurIPS, 2022 | [github](https://github.com/salesforce/BLIP)
+for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf), Alayrac, Jean-Baptiste, et al., NeurIPS, 2022 | [github]([https://github.com/salesforce/BLIP](https://github.com/mlfoundations/open_flamingo)
+
+- (BLIP-2) [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]([https://arxiv.org/pdf/2201.12086.pdf](https://arxiv.org/pdf/2301.12597)), Li, Junnan, et al., ICML, 2023 | [github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 
 
